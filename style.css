@@ -1,0 +1,17 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+
+}
+table{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+th,td{
+    padding: 4px;
+}
+.lendet{
+    text-align: center;
+    /* padding-left: -127px; */
+    
+}
